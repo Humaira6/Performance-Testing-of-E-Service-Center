@@ -88,7 +88,7 @@ Clone or download the project and set it up in your localhost environment to per
   All the summary reports with different amount of threads. The summary report provides a summary of the total number of requests, average response time, error count etc for the entire test plan.
 
 520 Threads
-
+![520Threads](https://github.com/Humaira6/Performance-Testing-of-E-Service-Center/blob/main/SS/520Threads.PNG)
 The summary reports shows the total number of requests which is 5720 and error rate is 0 % in this scenario.
 
 560 threads
