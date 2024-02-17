@@ -16,8 +16,6 @@ Performance testing of the E-Service Center application using Apache JMeter. Eva
 
 \*[Results Analysis](https://github.com/Humaira6/Performance-Testing-of-E-Service-Center?tab=readme-ov-file#results-analysis)
 
-\*[Result Attactments]()
-
 \*[Html Report]()
 
 \*[Recommendations](https://github.com/Humaira6/Performance-Testing-of-E-Service-Center?tab=readme-ov-file#recommendations)
@@ -110,6 +108,11 @@ In the above scenario the number of request is 6380 and with this the error rate
 ![700Threads](https://github.com/Humaira6/Performance-Testing-of-E-Service-Center/blob/main/SS/700Threads.PNG)
 
 For spike testing I have loaded the system which a huge number of threads which is 700, in this scenario system behavior degrades and the error rate is 7.31%.
+
+## HTML Report(Request Summary)
+
+![ReqSum](https://github.com/Humaira6/Performance-Testing-of-E-Service-Center/blob/main/SS/Report_summary.PNG)
+
 
 ## Recommendations
 
