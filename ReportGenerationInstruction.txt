@@ -1,0 +1,7 @@
+Firstly Creat a report folder into the bin folder, after that open the command line from the bin folder then run the commands in the command line of JMeter's bin folder
+
+
+
+jmeter -n -t E-Service-Center_580.jmx -l report\E-Service-Center_580.jtl
+
+jmeter -g report\E-Service-Center_580.jtl -o report\E-Service-Center_580.html
